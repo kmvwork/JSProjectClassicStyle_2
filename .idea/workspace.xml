@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c058d4c-3e4e-4668-8e6b-66df1a7ab329" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n2utWHM5bdTweUJxinh2Pr5tJH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c058d4c-3e4e-4668-8e6b-66df1a7ab329" name="Default Changelist" comment="" />
+      <created>1610600725527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610600725527</updated>
+      <workItem from="1610600727420" duration="1795000" />
+      <workItem from="1610602566379" duration="1334000" />
+      <workItem from="1610623355718" duration="2072000" />
+      <workItem from="1610625823310" duration="1779000" />
+      <workItem from="1610627643249" duration="826000" />
+      <workItem from="1610652931469" duration="1776000" />
+      <workItem from="1610654746425" duration="1859000" />
+      <workItem from="1610656661320" duration="1769000" />
+      <workItem from="1610658466123" duration="1618000" />
+      <workItem from="1610709685757" duration="1779000" />
+      <workItem from="1610712803690" duration="1739000" />
+      <workItem from="1610721321717" duration="4609000" />
+      <workItem from="1610728364536" duration="3382000" />
+      <workItem from="1610731810368" duration="1775000" />
+      <workItem from="1610733626651" duration="1787000" />
+      <workItem from="1610735461297" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="178" y="154" key="FileChooserDialogImpl" timestamp="1610602964273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610602964273" />
+    <state width="720" height="210" key="GridCell.Tab.0.bottom" timestamp="1610601595038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="720" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610601595038" />
+    <state width="720" height="210" key="GridCell.Tab.0.center" timestamp="1610601595038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="720" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610601595038" />
+    <state width="720" height="210" key="GridCell.Tab.0.left" timestamp="1610601595037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="720" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610601595037" />
+    <state width="720" height="210" key="GridCell.Tab.0.right" timestamp="1610601595038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="720" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610601595038" />
+  </component>
+</project>
